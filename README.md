@@ -9,7 +9,7 @@ pandas
 sklearn  
 scipy   
 
-Code organization:   
+**Code organization:**   
 
 main_code.ipynb : Jupyter Notebook containing all visualizations shown in the presentation   
 data_cleaning.py : Contains code to clean data  
