@@ -8,7 +8,6 @@ This repository contains the implementation of Team 25's final project: Joke Rec
 
 ## Dependencies
 
-* [python](https://www.python.org/)
 * [numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
 * [sklearn](https://scikit-learn.org/stable/)
