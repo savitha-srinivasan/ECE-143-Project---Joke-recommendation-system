@@ -31,7 +31,7 @@ This repository contains the implementation of Team 25's final project: Joke Rec
 
 1. Clone this repository   
 2. Run the command: `python main.py` to see the UBCF and content-based recommender results for a test user. 
-3. For visualizations, open 'visualizations.py' and execute the notebook. 
+3. For visualizations, open `visualizations.ipynb` and execute the notebook. 
 
 ## References 
 
